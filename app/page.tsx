@@ -64,20 +64,21 @@ export default function Home() {
                 Building Scalable Solutions For Tomorrow
               </h2>
               <p className="max-w-2xl text-sm text-gray-600 dark:text-gray-400">
-                Expert in cloud Architecture with{" "}
-                <span className="text-black dark:text-white">AWS</span> and{" "}
-                <span className="text-black dark:text-white">Azure</span>. I
-                specilize in the syesten and maby thing anf Eep Knowledge in{" "}
+                I am learning{" "}
+                <span className="text-black dark:text-white">NEXT.JS</span>,{" "}
+                <span className="text-black dark:text-white">TYPESCRIPT</span> and{" "}
+                <span className="text-black dark:text-white">MYSQL</span>{" "}
+                 I know some other technologies like{" "}
                 <span className="text-black dark:text-white">
-                  Python Kubernetes nad microservises
+                  HTML, CSS, JAVASCRIPT, REACT, GIT, GITHUB, NODE.js and MONGODB
                 </span>
               </p>
 
-              <p className="max-w-2xl text-sm text-gray-600 dark:text-gray-400">
+              {/* <p className="max-w-2xl text-sm text-gray-600 dark:text-gray-400">
                 Beyond knoledge and experteses i have a problem with the system
                 that system is currupt like rapper kurrupt things may not make
                 sense right now maybe in future they certainly not{" "}
-              </p>
+              </p> */}
             </motion.div>
 
             <motion.div
@@ -90,7 +91,7 @@ export default function Home() {
                 Resume
               </Button>
               <Link
-                href="#"
+                href="https://github.com/abhi2755"
                 className="text-gray-600 dark:text-gray-400 hover:text-black dark:hover:text-white transition-colors"
               >
                 <FaGithub className="w-6 h-6"></FaGithub>
@@ -132,21 +133,34 @@ export default function Home() {
               <div className="flex items-center justify-between">
                 <div className="space-y-1">
                   <p className="text-gray-600 dark:text-gray-400 text-sm">
-                    July23-present
+                    DEC20 - 2024
                   </p>
                   <p className="font-medium">Engineer</p>
                   <p className="text-blue-600 dark:to-blue-400">Company X</p>
                 </div>
               </div>
               <p className="text-gray-600 dark:text-gray-400 text-sm">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem
-                dicta consectetur quia, accusamus suscipit amet. Veritatis
-                aliquam minus deserunt dicta dolorem eum voluptatem totam, unde
-                aperiam. Eos cupiditate excepturi corrupti?{" "}
+                I was a Civil Engineer, i have done multiple civil engineering jobs {" "}
               </p>
             </div>
 
             <div className="space-y-8">
+              <div className="flex items-center justify-between">
+                <div className="space-y-1">
+                  <p className="text-gray-600 dark:text-gray-400 text-sm">
+                    OCT24-present
+                  </p>
+                  <p className="font-medium">Engineer</p>
+                  <p className="text-blue-600 dark:to-blue-400">Company X</p>
+                </div>
+              </div>
+              <p className="text-gray-600 dark:text-gray-400 text-sm">
+               From past six months i am learning web development. I dont have experience as developer but i do know how things work. but i can tell you about this project how i build this portfolio website . In this website i use next.js as a framework, tailwind css shadcn for components, framer motion for smooth looking animation and vercel for deploying the website
+               and i have other projects also which are not complete yet. and also i am learning how to make your own shell {" "}
+              </p>
+            </div>
+
+            {/* <div className="space-y-8">
               <div className="flex items-center justify-between">
                 <div className="space-y-1">
                   <p className="text-gray-600 dark:text-gray-400 text-sm">
@@ -180,25 +194,7 @@ export default function Home() {
                 aliquam minus deserunt dicta dolorem eum voluptatem totam, unde
                 aperiam. Eos cupiditate excepturi corrupti?{" "}
               </p>
-            </div>
-
-            <div className="space-y-8">
-              <div className="flex items-center justify-between">
-                <div className="space-y-1">
-                  <p className="text-gray-600 dark:text-gray-400 text-sm">
-                    July23-present
-                  </p>
-                  <p className="font-medium">Engineer</p>
-                  <p className="text-blue-600 dark:to-blue-400">Company X</p>
-                </div>
-              </div>
-              <p className="text-gray-600 dark:text-gray-400 text-sm">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem
-                dicta consectetur quia, accusamus suscipit amet. Veritatis
-                aliquam minus deserunt dicta dolorem eum voluptatem totam, unde
-                aperiam. Eos cupiditate excepturi corrupti?{" "}
-              </p>
-            </div>
+            </div> */}
           </motion.section>
 
           <motion.section
@@ -215,18 +211,15 @@ export default function Home() {
               <div className="flext items-center justify-between">
                 <div className="space-y-1">
                   <p className="text-gray-600 dark:text-gray-400 text-sm">
-                    July23-present
+                    MAR09 - 2010
                   </p>
-                  <p className="font-medium">Engineer</p>
-                  <p className="text-blue-600 dark:to-blue-400">NIFT</p>
+                  <p className="font-medium">STUDENT</p>
+                  <p className="text-blue-600 dark:to-blue-400">HBSE</p>
                 </div>
               </div>
               <p className="text-gray-600 dark:text-gray-400">
                 {" "}
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Voluptatem quae ipsum, odio iusto saepe similique fuga voluptas
-                aliquid tempore! Nobis ipsum sequi praesentium ullam numquam
-                iusto minima. Maiores, ducimus nobis!
+               I have done My 10th from JJP SCHOOL of HBSE board with 80% marks
               </p>
             </div>
 
@@ -234,18 +227,15 @@ export default function Home() {
               <div className="flext items-center justify-between">
                 <div className="space-y-1">
                   <p className="text-gray-600 dark:text-gray-400 text-sm">
-                    July23-present
-                  </p>
-                  <p className="font-medium">Engineer</p>
-                  <p className="text-blue-600 dark:to-blue-400">NIFT</p>
+                    MAR11 - 2012
+                   </p>
+                  <p className="font-medium">STUDENT</p>
+                  <p className="text-blue-600 dark:to-blue-400">HBSE</p>
                 </div>
               </div>
               <p className="text-gray-600 dark:text-gray-400">
                 {" "}
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Voluptatem quae ipsum, odio iusto saepe similique fuga voluptas
-                aliquid tempore! Nobis ipsum sequi praesentium ullam numquam
-                iusto minima. Maiores, ducimus nobis!
+                I have done My 12th from JJP SCHOOL of HBSE board with 80% marks
               </p>
             </div>
 
@@ -253,18 +243,15 @@ export default function Home() {
               <div className="flext items-center justify-between">
                 <div className="space-y-1">
                   <p className="text-gray-600 dark:text-gray-400 text-sm">
-                    July23-present
+                    MAY12 - 2016
                   </p>
-                  <p className="font-medium">Engineer</p>
-                  <p className="text-blue-600 dark:to-blue-400">NIFT</p>
+                  <p className="font-medium">ENGINEER</p>
+                  <p className="text-blue-600 dark:to-blue-400">MDU</p>
                 </div>
               </div>
               <p className="text-gray-600 dark:text-gray-400">
                 {" "}
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Voluptatem quae ipsum, odio iusto saepe similique fuga voluptas
-                aliquid tempore! Nobis ipsum sequi praesentium ullam numquam
-                iusto minima. Maiores, ducimus nobis!
+               I have done my B.Tech in Civil Engineering from NGF college Of MDU university
               </p>
             </div>
 
@@ -272,18 +259,15 @@ export default function Home() {
               <div className="flext items-center justify-between">
                 <div className="space-y-1">
                   <p className="text-gray-600 dark:text-gray-400 text-sm">
-                    July23-present
+                    MAY16 - 2018
                   </p>
                   <p className="font-medium">Engineer</p>
-                  <p className="text-blue-600 dark:to-blue-400">NIFT</p>
+                  <p className="text-blue-600 dark:to-blue-400">SSC</p>
                 </div>
               </div>
               <p className="text-gray-600 dark:text-gray-400">
                 {" "}
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Voluptatem quae ipsum, odio iusto saepe similique fuga voluptas
-                aliquid tempore! Nobis ipsum sequi praesentium ullam numquam
-                iusto minima. Maiores, ducimus nobis!
+                I prepare for my ssc exams
               </p>
             </div>
           </motion.section>
